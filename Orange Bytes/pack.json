@@ -1,0 +1,256 @@
+{
+    "hacks": {
+        "custom_zeroranger_male_shout": false,
+        "despair_pinch_custom": false,
+        "no_2-1_bossay": false,
+        "no_orangardimus": false
+    },
+    "pack_name": "ORANGE BYTES",
+    "replacements": {
+        "bgm_allclear": {
+            "file": "45 HyyeeaaAARH.ogg",
+            "name": "HYEEAAAARH"
+        },
+        "bgm_bonuswave": {
+            "file": "51 Dreamlike Reality.ogg",
+            "name": "DREAMLIKE REALITY"
+        },
+        "bgm_boss_a": {
+            "file": "49 Bossay, Exclamation.ogg",
+            "name": "BOSSAY, EXCLAMATION"
+        },
+        "bgm_boss_ab": {
+            "file": "24 BOSSAY.ogg",
+            "name": "BOSSAY"
+        },
+        "bgm_boss_b": {
+            "file": "50 Bossay, Quotation.ogg",
+            "name": "BOSSAY, QUOTATION"
+        },
+        "bgm_boss_dream": {
+            "file": "37 Cipolla Nero.ogg",
+            "name": "CIPOLLA NERO"
+        },
+        "bgm_boss_security": {
+            "file": "53 For Your Security.ogg",
+            "name": "FOR YOUR SECURITY"
+        },
+        "bgm_crisis": {
+            "file": "28 Crisis.ogg",
+            "name": "CRISIS"
+        },
+        "bgm_decisivefight": {
+            "file": "34 Sky XXXX Days.ogg",
+            "name": "SKY XXXX DAYS"
+        },
+        "bgm_despair1": {
+            "file": "40 Descent At Last.ogg",
+            "name": "DESCENT AT LAST"
+        },
+        "bgm_despair2": {
+            "file": "41 Despair.ogg",
+            "name": "DESPAIR"
+        },
+        "bgm_ending": {
+            "file": "35 Guns on Hold.ogg",
+            "name": "GUNS ON HOLD"
+        },
+        "bgm_erasure": {
+            "file": "23 Boiling.ogg",
+            "name": "BOILING"
+        },
+        "bgm_erending1": {
+            "file": "44a Her Song Intro.ogg",
+            "name": ""
+        },
+        "bgm_erending2": {
+            "file": "44b Her Song.ogg",
+            "name": "HER SONG"
+        },
+        "bgm_finalapproach": {
+            "file": "39 Menacing.ogg",
+            "name": "MENACING"
+        },
+        "bgm_finalintro": {
+            "file": "1 Somewhere In Time.ogg",
+            "name": "SOMEWHERE IN TIME"
+        },
+        "bgm_gameover": {
+            "file": "6 The Adventure Of Life Goes On.ogg",
+            "name": "THE ADVENTURE OF LIFE GOES ON"
+        },
+        "bgm_getfiredup": {
+            "file": "57 Now or Never, Get Fired Up!!.ogg",
+            "name": "NOW OR NEVER, GET FIRED UP!!"
+        },
+        "bgm_goferoffice": {
+            "file": "58 A Warm Return.ogg",
+            "name": "A WARM RETURN"
+        },
+        "bgm_grape": {
+            "file": "15 Ranger Machine March.ogg",
+            "name": "RANGER MACHINE MARCH"
+        },
+        "bgm_hellloop": {
+            "file": "22a Heavy Heart Breakdown.ogg",
+            "name": "HEAVY HEART"
+        },
+        "bgm_hermanoffice": {
+            "file": "54 Are We There Yet-.ogg",
+            "name": "ARE WE THERE YET-"
+        },
+        "bgm_intro": {
+            "file": "18 Ready For Battle.ogg",
+            "name": "READY FOR BATTLE"
+        },
+        "bgm_itsjustalake": {
+            "file": "22 Heavy Heart.ogg",
+            "name": "HEAVY HEART"
+        },
+        "bgm_juicestall": {
+            "file": "42 Juice Stall.ogg",
+            "name": "JUICE STALL"
+        },
+        "bgm_level_dream": {
+            "file": "36 This Is The GREENEST.ogg",
+            "name": "THIS IS THE GREENEST"
+        },
+        "bgm_level_four": {
+            "file": "19 4th Gear.ogg",
+            "name": "4TH GEAR"
+        },
+        "bgm_level_four_b": {
+            "file": "21 UNSTOPPING.ogg",
+            "name": "UNSTOPPING"
+        },
+        "bgm_level_four_throat": {
+            "file": "20 Throatwave.ogg",
+            "name": ""
+        },
+        "bgm_level_four_vanilla": {
+            "file": "52 4th Shade.ogg",
+            "name": "4TH SHADE"
+        },
+        "bgm_level_one": {
+            "file": "4 It May Be Greenish.ogg",
+            "name": "IT MAY BE GREENISH"
+        },
+        "bgm_level_one_ex": {
+            "file": "27 Was It Greenish-.ogg",
+            "name": "WAS IT GREENISH?"
+        },
+	"bgm_level_three": {
+            "choices": [
+                {
+                    "file": "14 Refreshening.ogg",
+                    "name": "REFRESHENING"
+                },
+                {
+                    "file": "61 Refreshening (Regular).ogg",
+                    "name": "REFRESHENING (REGULAR)"
+                }
+            ],
+            "choices_sync": 1
+        },
+        "bgm_level_three_ex": {
+            "file": "32 The Sea Has Returned.ogg",
+            "name": "THE SEA HAS RETURNED"
+        },
+        "bgm_level_two": {
+            "file": "9 Final Box.ogg",
+            "name": "FINAL BOX"
+        },
+        "bgm_level_two_b": {
+            "file": "11 Final Box act 2.ogg",
+            "name": "FINAL BOX ACT 2"
+        },
+        "bgm_level_two_ex": {
+            "file": "29 Final B'EX.ogg",
+            "name": "FINAL B'EX"
+        },
+        "bgm_level_two_b_ex": {
+            "file": "30 Final B'EX act 2.ogg",
+            "name": "FINAL B'EX ACT 2"
+        },
+        "bgm_menu": {
+            "file": "8 Comforting Choccoccino.ogg",
+            "name": "COMFORTING CHOCOCCINO"
+        },
+        "bgm_menu_b": {
+            "file": "26 yynem.ogg",
+            "name": "YYNEM"
+        },
+        "bgm_menu_c": {
+            "file": "47 System Endless.ogg",
+            "name": "SYSTEM ENDLESS"
+        },
+        "bgm_menuboot": {
+            "file": "2 Brewing.ogg",
+            "name": "BREWING"
+        },
+        "bgm_miniboss_a": {
+            "file": "10 OR-Type.ogg",
+            "name": "OR-TYPE"
+        },
+        "bgm_miniboss_b": {
+            "file": "5 Orangardimus.ogg",
+            "name": "ORANGARDIMUS"
+        },
+        "bgm_miniboss_c": {
+            "file": "17 Impossible Orange.ogg",
+            "name": "IMPOSSIBLE ORANGE"
+        },
+        "bgm_onionstory": {
+            "file": "25 Black Onion.ogg",
+            "name": "BLACK ONION"
+        },
+        "bgm_power_up": {
+            "file": "12 Weapons Of Mass Destruction.ogg",
+            "name": "WEAPONS OF MASS DESTRUCTION"
+        },
+        "bgm_power_up_max": {
+            "file": "33 Enter The Mass Destruction.ogg",
+            "name": "ENTER THE MASS DESTRUCTION"
+        },
+        "bgm_sacdefer": {
+            "file": "43 Sacred Defender.ogg",
+            "name": "SACRED DEFENDER"
+        },
+        "bgm_saimaa": {
+            "file": "31 Sour Eater.ogg",
+            "name": "SOUR EATER"
+        },
+        "bgm_skypiano1": {
+            "file": "55 Sky Echo - part 1.ogg",
+            "name": "SKY ECHO"
+        },
+        "bgm_skypiano2": {
+            "file": "56 Sky Echo - part 2.ogg",
+            "name": ""
+        },
+        "bgm_story": {
+            "file": "7 Green Orange.ogg",
+            "name": "GREEN ORANGE"
+        },
+        "bgm_swingingcitrus": {
+            "file": "46 Swinging Citrus.ogg",
+            "name": "SWINGING CITRUS"
+        },
+        "bgm_transform": {
+            "file": "16 Apprivorange.ogg",
+            "name": "APPRIVORANGE"
+        },
+        "bgm_tutorial": {
+            "file": "3 Can't We Just Get Over It-.ogg",
+            "name": "CAN'T WE JUST GET OVER IT?"
+        },
+        "bgm_victory": {
+            "file": "13 Hyes.ogg",
+            "name": "HYES"
+        },
+        "bgm_void": {
+            "file": "59 Void.ogg",
+            "name": "VOID"
+        }
+    }
+}

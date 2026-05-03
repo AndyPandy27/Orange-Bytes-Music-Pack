@@ -1,0 +1,17 @@
+// Here is your palette! if you don't know what to do with this, press the i button inside the tool.
+
+//Palette Start
+
+palet_name = "ORANGE BYTES"
+colarray[0] = 0
+colarray[1] = 0
+colarray[2] = 0
+colarray[3] = 20301
+colarray[4] = 16760947
+colarray[5] = 0
+colarray[6] = 20300
+colarray[7] = 20300
+colarray[8] = 16744448
+colarray[9] = 16760947
+
+//Palette End
